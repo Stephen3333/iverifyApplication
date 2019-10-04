@@ -1,0 +1,11 @@
+com\iverify\iverifyApp\controller\ProductController.class
+com\iverify\iverifyApp\controller\CustomerController.class
+com\iverify\iverifyApp\dao\ProductDAO.class
+com\iverify\iverifyApp\model\Product.class
+model\Product.class
+com\iverify\iverifyApp\IverifyAppApplication.class
+dao\CustomerDAO.class
+com\iverify\iverifyApp\model\Customer.class
+com\iverify\iverifyApp\dao\CustomerDAO.class
+dao\ProductDAO.class
+model\Customer.class
